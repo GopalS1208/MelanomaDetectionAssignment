@@ -16,3 +16,7 @@ Below are the diseases
 - Seborrheic keratosis
 - Squamous cell carcinoma
 - Vascular lesion
+
+## Solutions:
+Melanoma Detection Skin Care ISIC.ipynb - Contains 3 Models along with Augumentor for 500 samples as part of Class imbalancing
+Melanoma Detection Skin Care ISIC_Aug_1000_Images.ipynb - Contains same 3 Models along with Augumentor for 1000 samples as part of Class imbalancing. Observations are mentioned in the comments after each model execution.
